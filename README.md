@@ -1,35 +1,65 @@
-# Hi, I'm Marne Vermaak 👋
-## 🌍 South Africa | 🧠 BSc IT 
+# Hi, I'm Marne Vermaak 👋  
+🌍 South Africa | 🧠 BSc IT Student | 🏎️ F1 Tech Dreamer
 
-### 💼 About Me
-🌍 I'm a passionate IT student focused on building software to solve real-world problems.
-💻 I enjoy backend development, system design and tinkering with data.
-🏎️ Currently working on building a IT career profile in F1 Tech.
-🦴 Mom of two dogs: Nacho and Pepper
+---
+
+## 💼 About Me
+
+I'm a passionate BSc IT student focused on building software that solves real-world problems. I enjoy backend development, system design, and working with data. I'm currently building a career profile toward a future in F1 Tech.
 
 - 🎓 2nd-year BSc IT student
-- 🛠️ Tech Stack: C#/C++, Python, Java , Virtual Studio( .NET, MAUI), Git
-- 🚀 Latest app build: [Verdict App]() – Case management mobile app
-- 🎯 Career Goal: Work in IT/software for a Formula 1 team
+- 🐾 Dog mom to Nacho & Pepper
+- 🚀 Currently working on: Verdict App (a mobile case management app)
 
-### 📚 Projects
-- 🔍 [Verdict App]() – A mobile case investigation manager
-- 🛒 [Soup Kitchen Inventory Tracker]() – Sales & stock app for a local business
-- 🧑‍💼 [Career Profile]() – Personal Career profile
+---
 
+## 🛠️ Tech Stack
 
-### 🧩 Skills & Tools
-- Python
-- Java
-- C#
-- C++
-- Visual Studio code
-- .NET
-- Git
+- Languages: C#, C++, Python, Java
+- Tools: .NET, MAUI, Git, Visual Studio, VS Code
 
-### 📫 Let's Connect
-- 📧 Email: marnevermaak1@gmail.com
-- 💼 LinkedIn:
-- 📷 Instagram: 
+---
 
-> *"Still thinking of a life motto"*
+## 📚 Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **🔍 Verdict App** | Mobile app for managing investigative cases and entries | [View Repo](https://github.com/nowUCme22/Verdict-App) |
+| **🛒 Soup Kitchen Inventory Tracker** | Sales & stock tracker for a small business | [View Repo](https://github.com/nowUCme22/scent-inventory) |
+| **🧑‍💼 Career Profile** | This profile repository you're reading! | [View Repo](https://github.com/nowUCme22/nowUCme22) |
+
+---
+
+## 🎓 University Coursework Portfolio (BSc IT – NWU)
+
+### 📘 Year 1 – Semester 1
+| Module | Language | Description | Link |
+|--------|----------|-------------|------|
+| CMPG111 | Python | Basics, functions, loops, Turtle graphics | [View Repo](https://github.com/nowUCme22/CMPG111) |
+
+### 📘 Year 1 – Semester 2
+| Module | Language | Description | Link |
+|--------|----------|-------------|------|
+| CMPG121 | C++ | Tasks, practicals, and a creative project | [View Repo](https://github.com/nowUCme22/CMPG121) |
+| CMPG122 | C# | Console apps built in Visual Studio | [View Repo](https://github.com/nowUCme22/CMPG122) |
+
+---
+
+## 🧩 Skills & Tools
+
+- ✅ Python, Java, C#, C++
+- ✅ Visual Studio, VS Code
+- ✅ .NET, MAUI
+- ✅ Git & GitHub
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: marnevermaak1@gmail.com  
+- 💼 LinkedIn: *(Add your link)*  
+- 📷 Instagram: *(Add your link if you want)*  
+
+---
+
+> _“Still thinking of a life motto...”_ 😄  
