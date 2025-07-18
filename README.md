@@ -9,7 +9,7 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 
 - 🎓 2nd-year BSc IT student
 - 🐾 Dog mom to Nacho & Pepper
-- 🚀 Currently working on: Verdict App (a mobile case management app)
+- 🚀 Currently working on my second year, second semester in BSC IT
 
 ---
 
@@ -57,9 +57,5 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 ## 📫 Let's Connect
 
 - 📧 Email: marnevermaak1@gmail.com  
-- 💼 LinkedIn: *(Add your link)*  
-- 📷 Instagram: *(Add your link if you want)*  
-
----
-
-> _“Still thinking of a life motto...”_ 😄  
+- 💼 LinkedIn: | [View Profile](www.linkedin.com/in/marné-vermaak-18a6942a4) |  
+- 📷 Instagram: | [View Profile](https://www.instagram.com/marne_._vermaak/) |
