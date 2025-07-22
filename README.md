@@ -43,6 +43,20 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 | CMPG121 | C++ | Tasks, practicals, and a creative project | [View Repo](https://github.com/nowUCme22/CMPG121) |
 | CMPG122 | C# | Console apps built in Visual Studio | [View Repo](https://github.com/nowUCme22/CMPG122) |
 
+### 📘 Year 2 – Semester 1
+| Module | Language | Description | Link |
+|--------|----------|-------------|------|
+| CMPG 211 | Java | | |
+| CMPG 212 | C# | | |
+| CMPG 213 | Data Analysis | | |
+
+### 📘 Year 2 – Semester 2
+| Module | Language | Description | Link |
+|--------|----------|-------------|------|
+| CMPG 221 | Java | | |
+| CMPG 222 | | | |
+| CMPG 223 | Data Analysis | | |
+
 ---
 
 ## 🧩 Skills & Tools
