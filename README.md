@@ -48,7 +48,7 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 |--------|----------|-------------|------|
 | CMPG 211 | Java | Object Oriented Programming | [View Repo](https://github.com/nowUCme22/CMPG211/tree/main) |
 | CMPG 212 | C# | ASP.NET Web Forms | [View Repo](https://github.com/nowUCme22/CMPG212/tree/main) |
-| CMPG 213 | Data Analysis | | |
+| CMPG 213 | System Analysis and Design | Phase 1, 2 and 3 of our System Design Project | [View Repo](https://github.com/nowUCme22/CMPG213) |
 
 ### 📘 Year 2 – Semester 2
 | Module | Language | Description | Link |
