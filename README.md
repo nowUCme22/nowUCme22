@@ -53,9 +53,8 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 ### 📘 Year 2 – Semester 2
 | Module | Language | Description | Link |
 |--------|----------|-------------|------|
-| CMPG 221 | Java | | |
-| CMPG 222 | | | |
-| CMPG 223 | Data Analysis | | |
+| CMPG 221 | Data Structures and Algorithms (Java 2) | Mini Object Oriented Program | [View Repo]() |
+| CMPG 223 | System Analysis and Design 2 | Final Phase of Project | [View Repo]() |
 
 ---
 
