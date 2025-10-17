@@ -54,7 +54,7 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 | Module | Language | Description | Link |
 |--------|----------|-------------|------|
 | CMPG 221 | Data Structures and Algorithms (Java 2) | Mini Object Oriented Program | [View Repo](https://github.com/nowUCme22/CMPG221/tree/main) |
-| CMPG 223 | System Analysis and Design 2 | Final Phase of Project | [View Repo]() |
+| CMPG 223 | System Analysis and Design 2 | Final Phase of Project | [View Repo](https://github.com/CMPG223-Soup-Kitchen/CMPG223) |
 
 ---
 
