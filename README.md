@@ -24,7 +24,7 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **🔍 Verdict App** | Mobile app for managing investigative cases and entries | [View Repo](https://github.com/nowUCme22/Verdict-App) |
+| **🔍 Verdict App** | Mobile app for managing investigative cases and entries | [View Repo](https://github.com/nowUCme22/CMPG212/blob/main/Project%203%20-%20Verdict/README.md) |
 | **🛒 Soup Kitchen Inventory Tracker** | Sales & stock tracker for a small business | [View Repo](https://github.com/nowUCme22/scent-inventory) |
 | **🧑‍💼 Career Profile** | This profile repository you're reading! | [View Repo](https://github.com/nowUCme22/nowUCme22) |
 
