@@ -46,7 +46,7 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 ### 📘 Year 2 – Semester 1
 | Module | Language | Description | Link |
 |--------|----------|-------------|------|
-| CMPG 211 | Java | | |
+| CMPG 211 | Java | Object Oriented Programming | [View Repo](https://github.com/nowUCme22/CMPG211/tree/main) |
 | CMPG 212 | C# | | |
 | CMPG 213 | Data Analysis | | |
 
