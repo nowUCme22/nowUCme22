@@ -57,14 +57,14 @@ employer's own repos, these summarise what I built and my role.
 | Project | Description | Link |
 |---------|-------------|------|
 | **💬 Elsa** | WhatsApp AI agent for an agricultural client that turns photographed delivery notes into sales records. Built the React (Vite + Tailwind) dashboard, the Supabase schema, and the n8n Cloud automation workflow. Live in production. | [View Repo](https://github.com/nowUCme22/elsa) |
-| **🥫 KosKas** | One-day internal hackathon project — a pantry/recipe app suggesting recipes from ingredients on hand. Pair-programmed the data model and photo-attachment feature. | [View Repo](https://github.com/nowUCme22/koskas) |
+| **🥫 KosKas** | One-day internal hackathon project — a pantry/recipe app suggesting recipes from ingredients on hand. Pair-programmed the data model and photo-attachment feature. | — |
 
 ### Agrisol (IT Department) — IT Intern
 *December 2025*
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **🕒 Trekker** | Workforce clock-in/clock-out web app, used as a learning project. Built the backend — domain model, database schema, and REST API — in ASP.NET Core and EF Core. | [View Repo](https://github.com/nowUCme22/trekker) |
+| **🕒 Trekker** | Workforce clock-in/clock-out web app, used as a learning project. Built the backend — domain model, database schema, and REST API — in ASP.NET Core and EF Core. | — |
 
 ---
 
