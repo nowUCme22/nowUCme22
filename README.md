@@ -57,6 +57,27 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 | CMPG 221 | Data Structures and Algorithms (Java 2) | Mini Object Oriented Program | [View Repo](https://github.com/nowUCme22/CMPG221/tree/main) |
 | CMPG 223 | System Analysis and Design 2 | Final Phase of Project | [View Repo](https://github.com/CMPG223-Soup-Kitchen/CMPG223) |
 
+### 📘 Year 3 – Semester 1
+| Module | Language | Description | Link |
+|--------|----------|-------------|------|
+| CMPG 311 | Oracle SQL | Database design group project — OceanView Aquarium | [View Repo](https://github.com/nowUCme22/CMPG311) |
+| CMPG 315 | Cisco Packet Tracer | Network design group project — PT Business Network | [View Repo](https://github.com/nowUCme22/CMPG315) |
+
+---
+
+## 💼 Client & Freelance Work
+
+Description-only repos for private client/employer projects (code stays in the
+client's own repos — these summarise what I built and my role).
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **🥫 KosKas** | Photo-based kitchen pantry tracker (React + Supabase) | [View Repo](https://github.com/nowUCme22/koskas) |
+| **🏭 Die Fabriek** | Factory operations & raw material management system | [View Repo](https://github.com/nowUCme22/die-fabriek) |
+| **💬 Elsa** | WhatsApp AI agent management dashboard | [View Repo](https://github.com/nowUCme22/elsa) |
+| **🗺️ Dencity** | Real-time venue busyness map | [View Repo](https://github.com/nowUCme22/dencity) |
+| **🕒 Trekker** | Workforce time & scheduling API | [View Repo](https://github.com/nowUCme22/trekker) |
+
 ---
 
 ## 🧩 Skills & Tools
