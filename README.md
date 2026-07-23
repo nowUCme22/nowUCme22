@@ -1,5 +1,5 @@
 # Hi, I'm Marne Vermaak 👋  
-🌍 South Africa | 🧠 BSc IT Student | 💻 Junior Developer
+🌍 South Africa | 💻 Junior Developer | 🧠 BSc IT Student
 
 ---
 
@@ -17,8 +17,8 @@ and I'm just as comfortable jumping into frontend work when a project calls for 
 
 - 🎓 3rd-year BSc IT student, expected completion November 2026
 - 💼 Junior Backend Developer at Code Café, part-time
-- 🏎️ Long-term (not urgent) dream: IT for an F1 team someday
-- 🌐 More about me: [Virtual CV](https://nowucme22.github.io/virtual-cv/) · [Career Profile repo](https://github.com/nowUCme22/nowUCme22)
+- 🏎️ Long-term dream: IT for an F1 team someday
+- 🌐 More about me: [Virtual CV](https://nowucme22.github.io/virtual-cv/)
 
 ---
 
@@ -70,31 +70,23 @@ employer's own repos, these summarise what I built and my role.
 
 ## 🎓 University Coursework Portfolio (BSc IT – NWU)
 
-### 📘 Year 1 – Semester 1
+### 📘 Year 1
 | Module | Language | Description | Link |
 |--------|----------|-------------|------|
 | CMPG111 | Python | Basics, functions, loops, Turtle graphics | [View Repo](https://github.com/nowUCme22/CMPG111) |
-
-### 📘 Year 1 – Semester 2
-| Module | Language | Description | Link |
-|--------|----------|-------------|------|
 | CMPG121 | C++ | Tasks, practicals, and a creative project | [View Repo](https://github.com/nowUCme22/CMPG121) |
 | CMPG122 | C# | Console apps built in Visual Studio | [View Repo](https://github.com/nowUCme22/CMPG122) |
 
-### 📘 Year 2 – Semester 1
+### 📘 Year 2
 | Module | Language | Description | Link |
 |--------|----------|-------------|------|
 | CMPG 211 | Java | Object Oriented Programming | [View Repo](https://github.com/nowUCme22/CMPG211/tree/main) |
 | CMPG 212 | C# | ASP.NET Web Forms — includes the Verdict case management app | [View Repo](https://github.com/nowUCme22/CMPG212/tree/main) |
 | CMPG 213 | System Analysis and Design | Phase 1, 2 and 3 of our System Design Project | [View Repo](https://github.com/nowUCme22/CMPG213) |
-
-### 📘 Year 2 – Semester 2
-| Module | Language | Description | Link |
-|--------|----------|-------------|------|
 | CMPG 221 | Data Structures and Algorithms (Java 2) | Mini Object Oriented Program | [View Repo](https://github.com/nowUCme22/CMPG221/tree/main) |
 | CMPG 223 | System Analysis and Design 2 | Final phase of the Soup Kitchen Resource Management System | [View Repo](https://github.com/CMPG223-Soup-Kitchen/CMPG223) |
 
-### 📘 Year 3 – Semester 1
+### 📘 Year 3
 | Module | Language | Description | Link |
 |--------|----------|-------------|------|
 | CMPG 311 | Oracle SQL | Database design group project — OceanView Aquarium | [View Repo](https://github.com/nowUCme22/CMPG311) |
