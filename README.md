@@ -56,7 +56,7 @@ employer's own repos, these summarise what I built and my role.
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **💬 Elsa** | WhatsApp AI agent for an agricultural client, plus the React (Vite + Tailwind) admin/monitoring dashboard. Owned the Supabase schema and the dashboard build. Live in production. | [View Repo](https://github.com/nowUCme22/elsa) |
+| **💬 Elsa** | WhatsApp AI agent for an agricultural client that turns photographed delivery notes into sales records. Built the React (Vite + Tailwind) dashboard, the Supabase schema, and the n8n Cloud automation workflow. Live in production. | [View Repo](https://github.com/nowUCme22/elsa) |
 | **🥫 KosKas** | One-day internal hackathon project — a pantry/recipe app suggesting recipes from ingredients on hand. Pair-programmed the data model and photo-attachment feature. | [View Repo](https://github.com/nowUCme22/koskas) |
 
 ### Agrisol (IT Department) — IT Intern
