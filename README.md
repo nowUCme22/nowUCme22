@@ -49,7 +49,7 @@ employer's own repos, these summarise what I built and my role.
 | Project | Description | Link |
 |---------|-------------|------|
 | **🏭 Die Fabriek** | Manufacturing management system (raw materials, job cards, quality control, finished-product inventory) for a production-facility client. Backend lead — ASP.NET Core, Entity Framework Core, SQL Server. Live and in production. | [View Repo](https://github.com/nowUCme22/die-fabriek) |
-| **🗺️ Dencity** | Mobile-first web app proof-of-concept showing live venue "busyness" data. Primary developer — React/TypeScript frontend, Python (FastAPI) backend. | [View Repo](https://github.com/nowUCme22/dencity) |
+| **🗺️ Dencity** | Mobile-first web app proof-of-concept showing live venue "busyness" data. Sole developer — React/TypeScript frontend, Python (FastAPI) backend, database, and deployment. | [View Repo](https://github.com/nowUCme22/dencity) |
 
 ### Agrisol (IT Department) — Junior Developer (Frontend & Backend)
 *January – February 2026 · Full-time, on-site*
