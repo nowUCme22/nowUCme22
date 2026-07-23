@@ -7,9 +7,9 @@
 
 I'm a passionate BSc IT student focused on building software that solves real-world problems. I enjoy backend development, system design, and working with data. I'm currently building a career profile toward a future in F1 Tech.
 
-- 🎓 2nd-year BSc IT student
+- 🎓 3rd-year BSc IT student, expected completion November 2026
+- 💼 Junior Backend Developer at Code Café, part-time
 - 🐾 Dog mom to Nacho & Pepper
-- 🚀 Currently working on my second year, second semester in BSC IT
 
 ---
 
@@ -24,6 +24,7 @@ I'm a passionate BSc IT student focused on building software that solves real-wo
 
 | Project | Description | Link |
 |--------|-------------|------|
+| **🌐 Virtual CV** | Personal portfolio website (Home, About, Resume, Skills, Projects, Contact), hosted on GitHub Pages | [View Repo](https://github.com/nowUCme22/virtual-cv) · [Live Site](https://nowucme22.github.io/virtual-cv/) |
 | **🔍 Verdict App** | Mobile app for managing investigative cases and entries | [View Repo](https://github.com/nowUCme22/CMPG212/blob/main/Project%203%20-%20Verdict/README.md) |
 | **🛒 Soup Kitchen Inventory Tracker** | Sales & stock tracker for a small business | [View Repo](https://github.com/CMPG223-Soup-Kitchen/CMPG223) |
 | **🧑‍💼 Career Profile** | This profile repository you're reading! | [View Repo](https://github.com/nowUCme22/nowUCme22) |
