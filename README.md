@@ -106,5 +106,5 @@ employer's own repos, these summarise what I built and my role.
 ## 📫 Let's Connect
 
 - 📧 Email: marnevermaak1@gmail.com  
-- 💼 LinkedIn: [View Profile](www.linkedin.com/in/marné-vermaak-18a6942a4)  
+- 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/marné-vermaak)  
 - 🌐 Virtual CV: [nowucme22.github.io/virtual-cv](https://nowucme22.github.io/virtual-cv/)
