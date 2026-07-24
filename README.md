@@ -81,7 +81,7 @@ employer's own repos, these summarise what I built and my role.
 | Module | Language | Description | Link |
 |--------|----------|-------------|------|
 | CMPG 211 | Java | Object Oriented Programming | [View Repo](https://github.com/nowUCme22/CMPG211/tree/main) |
-| CMPG 212 | C# | ASP.NET Web Forms, includes the Verdict case management app | [View Repo](https://github.com/nowUCme22/CMPG212/tree/main) |
+| CMPG 212 | C# | ASP.NET Web Forms, includes the Verdict case management app | [View Repo](https://github.com/nowUCme22/CMPG212/tree/main/Project%203%20-%20Verdict) |
 | CMPG 213 | System Analysis and Design | Phase 1, 2 and 3 of our System Design Project | [View Repo](https://github.com/nowUCme22/CMPG213) |
 | CMPG 221 | Data Structures and Algorithms (Java 2) | Mini Object Oriented Program | [View Repo](https://github.com/nowUCme22/CMPG221/tree/main) |
 | CMPG 223 | System Analysis and Design 2 | Final phase of the Soup Kitchen Resource Management System | [View Repo](https://github.com/CMPG223-Soup-Kitchen/CMPG223) |
