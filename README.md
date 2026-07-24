@@ -18,7 +18,7 @@ and I'm just as comfortable jumping into frontend work when a project calls for 
 - 🎓 3rd-year BSc IT student, expected completion November 2026
 - 💼 Junior Backend Developer at Code Café, part-time
 - 🏎️ Long-term dream: IT for an F1 team someday
-- 🌐 More about me: [Virtual CV](https://nowucme22.github.io/virtual-cv/)
+- 🌐 More about me: [Virtual CV](https://nowucme22.github.io/virtual-cv/) ([repo](https://github.com/nowUCme22/virtual-cv))
 
 ---
 
@@ -107,4 +107,4 @@ employer's own repos, these summarise what I built and my role.
 
 - 📧 Email: marnevermaak1@gmail.com  
 - 💼 LinkedIn: [View Profile](https://www.linkedin.com/in/marné-vermaak)  
-- 🌐 Virtual CV: [nowucme22.github.io/virtual-cv](https://nowucme22.github.io/virtual-cv/)
+- 🌐 Virtual CV: [nowucme22.github.io/virtual-cv](https://nowucme22.github.io/virtual-cv/) ([repo](https://github.com/nowUCme22/virtual-cv))
